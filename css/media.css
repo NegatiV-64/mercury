@@ -1,0 +1,425 @@
+@media (max-width:1200px) {
+    .browser__img {
+        width: 630px;
+    }
+}
+
+@media (max-width:992px) {
+
+    .header {
+        height: 127vh;
+    }
+
+    .nav__logo {
+        width: 150px;
+    }
+
+    .nav__link {
+        margin-right: 20px;
+    }
+
+    .nav__link_l {
+        font-size: 18px;
+        padding: 10px 30px;
+    }
+
+    .header__title {
+        text-align: center;
+    }
+
+    .header__img {
+        width: 680px;
+        top: 505px;
+    }
+
+    .service {
+        padding-top: 175px;
+        padding-bottom: 125px;
+    }
+
+    .service__text {
+        font-size: 15px;
+    }
+
+    .service__header_mt {
+        margin-bottom: 55px;
+    }
+
+    .service__header_mt2 {
+        margin-top: 47px;
+    }
+
+    .service__text {
+        font-size: 15px;
+    }
+
+    .service__link {
+        padding: 15px 65px;
+        font-size: 15px;
+    }
+
+    .browser {
+        flex-direction: column;
+    }
+
+    .browser__img {
+        margin-top: 50px;
+    }
+
+    .drop__container {
+        flex-wrap: wrap;
+        padding-top: 50px;
+        padding-bottom: 90px;
+    }
+
+    .drop__field {
+        width: 334px;
+    }
+
+    .drop__content {
+        text-align: center;
+    }
+
+    .temp__imgs {
+        width: 706px;
+    }
+
+    .temp__info_l {
+        top: -10px;
+        left: 3px;
+    }
+
+    .temp__info_r {
+        width: 428px;
+        bottom: 68px;
+    }
+
+    .test {
+        max-width: 428px;
+    }
+
+    .temp__info_r img {
+        max-width: 428px;
+    }
+
+    .temp__heading_r {
+        max-width: 428px;
+    }
+
+    .temp__texter_r {
+        max-width: 428px;
+        padding-left: 195px;
+    }
+
+    .join__text {
+        max-width: 732px;
+    }
+
+    .join__link {
+        width: 204px
+    }
+
+    .price__item {
+        font-size: 14px;
+    }
+
+}
+
+@media (max-width:768px) {
+
+    .header {
+        height: 100vh;
+    }
+
+    .nav__logo {
+        width: 0px;
+    }
+
+    .nav__link {
+        margin-right: 10px;
+    }
+
+    .nav__link_l {
+        font-size: 15px;
+        padding: 7px 30px;
+    }
+
+    .header__img {
+        width: 510px;
+        top: 436px;
+    }
+
+    .service {
+        padding-top: 115px;
+    }
+
+    .service__header_mt {
+        margin-bottom: 25px;
+    }
+
+    .service__header_mt2 {
+        margin-top: 46px;
+    }
+
+    .nav__container {
+        padding-top: 25px;
+    }
+
+    .service__link {
+        padding: 15px 33px;
+        font-size: 17px;
+    }
+
+    .nav__link {
+        font-size: 15px;
+    }
+
+    .header__title {
+        margin-top: 80px;
+        font-size: 50px;
+    }
+
+    .header__subtitle {
+        font-size: 26px;
+    }
+
+    .header__link {
+        margin-top: 30px;
+    }
+
+    .browser {
+        padding-bottom: 37px;
+    }
+
+    .browser__list {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .browser__img {
+        width: 558px;
+    }
+
+    .browser__container {
+        padding-left: 0px;
+    }
+
+    .browser__title {
+        text-align: center;
+    }
+
+    .browser__text {
+        text-align: center;
+    }
+
+    .drop__field {
+        width: 234px;
+    }
+
+    .drop__field label {
+        width: 270px;
+        padding: 30px 80px;
+    }
+
+    .temp__container {
+        padding-top: 60px;
+    }
+
+    .temp__imgs {
+        width: 570px;
+    }
+
+    .temp__info_l {
+        top: -31px;
+    }
+
+    .temp__info_r {
+        width: 315px;
+        bottom: 26px;
+    }
+
+    .test {
+        max-width: 316px;
+    }
+
+    .temp__info_r img {
+        max-width: 315px;
+    }
+
+    .temp__heading_r {
+        max-width: 315px;
+    }
+
+    .temp__texter_r {
+        max-width: 315px;
+        padding-left: 76px;
+    }
+
+    .join__text {
+        max-width: 495px;
+    }
+
+    .price__container {
+        margin-bottom: 70px;
+    }
+
+    .price__content {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    .price__subheading {
+        font-size: 21px;
+    }
+
+    .price__heading {
+        font-size: 55px;
+    }
+
+    .price__list {
+        margin-top: 15px;
+    }
+
+    .price__icon {
+        margin-right: 2px;
+    }
+
+    .footer__left {
+        font-size: 16px;
+    }
+
+    .join__link {
+        width: 274px;
+    }
+
+    .price__item {
+        font-size: 11px;
+    }
+
+    .nav__logo img {
+        width: 150px;
+    }
+
+
+}
+
+@media (max-width:576px) {
+
+    .header {
+        height: 73vh;
+    }
+
+    .nav__logo {
+        width: 320px;
+        margin-top: 4px;
+    }
+
+    .nav__link_l {
+        font-size: 10px;
+        padding: 5px 10px;
+    }
+
+    .header__img {
+        width: 277px;
+        top: 383px;
+    }
+
+    .nav__link {
+        font-size: 10px;
+    }
+
+    .header__title {
+        font-size: 40px;
+    }
+
+    .nav__logo img {
+        width: 70px;
+    }
+
+    .col-4 {
+        width: var(--col-12);
+    }
+
+    .service__card {
+        margin-bottom: 45px;
+    }
+
+    .service {
+        padding-bottom: 60px;
+    }
+
+    .browser__container {
+        padding-left: 15px;
+    }
+
+    .browser__item {
+        padding-left: 15px;
+    }
+
+    .browser__img {
+        width: 264px;
+    }
+
+    .temp__info {
+        width: inherit;
+        position: static;
+    }
+
+
+    .temp__imgs {
+        width: 320px;
+        margin-top: 23px;
+    }
+
+    .temp__info_l {
+        padding-left: 15px;
+        position: static;
+    }
+
+    .test {
+        max-width: 316px;
+        max-width: 266px;
+    }
+
+    .temp__info_r img {
+        max-width: 266px;
+    }
+
+    .temp__heading_r {
+        max-width: 266px;
+    }
+
+    .temp__texter_r {
+        max-width: 266px;
+    }
+
+    .price__card {
+        margin-bottom: 50px;
+    }
+
+    .join__text {
+        max-width: 300px;
+    }
+
+    .footer__right {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+    }
+
+    .footer__list {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .footer__icons {
+        display: flex;
+        flex-direction: row;
+        margin-top: 18px;
+    }
+
+    .drop__container {
+        justify-content: center;
+    }
+}
